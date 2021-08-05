@@ -1,6 +1,5 @@
 👋 Hi, I’m @AnimoGolgi<br>
-👀 I’m interested in web develpoment and electronics<br>
-🌱 I’m currently learning Web Development<br>
+👀 Interested in electronics<br>
 
 <!---
 AnimoGolgi/AnimoGolgi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
